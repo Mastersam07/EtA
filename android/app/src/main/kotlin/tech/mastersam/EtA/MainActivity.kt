@@ -1,4 +1,4 @@
-package com.example.EtA
+package tech.mastersam.EtA
 
 import io.flutter.embedding.android.FlutterActivity
 
